@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GeoFence/GeoFenceViewController.m"
+            timestampString = "411466553.615777"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "-locationManager:didRangeBeacons:inRegion:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GeoFenceViewController locationManager:didRangeBeacons:inRegion:]"
+                  moduleName = "GeoFence"
+                  urlString = "file:///Users/yoshiyuki/Documents/InProgress/%E8%91%97%E4%BD%9C/4.%E6%96%B0%E4%BD%9C-%E8%B3%87%E6%96%99/%E3%82%B5%E3%83%B3%E3%83%95%E3%82%9A%E3%83%AB%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA/05.%E3%82%B7%E3%82%99%E3%82%AA%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%AF%E3%82%99/GeoFence/GeoFence/GeoFenceViewController.m"
+                  timestampString = "406866888.502165"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GeoFenceViewController locationManager:didRangeBeacons:inRegion:]"
+                  moduleName = "GeoFence"
+                  urlString = "file:///Users/yoshiyuki/Documents/InProgress/%E8%91%97%E4%BD%9C/4.%E6%96%B0%E4%BD%9C-%E8%B3%87%E6%96%99/%E3%82%B5%E3%83%B3%E3%83%95%E3%82%9A%E3%83%AB%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA/05.%E3%82%B7%E3%82%99%E3%82%AA%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%AF%E3%82%99/GeoFence/GeoFence/GeoFenceViewController.m"
+                  timestampString = "406866888.502404"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "1504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
